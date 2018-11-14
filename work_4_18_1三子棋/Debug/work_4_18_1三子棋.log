@@ -1,0 +1,5 @@
+﻿  game.c
+  test.c
+  正在生成代码...
+d:\c\work\work4_18_1三子棋\work_4_18_1三子棋\game.c(171): warning C4715: “judge”: 不是所有的控件路径都返回值
+  work_4_18_1三子棋.vcxproj -> D:\c\work\work4_18_1三子棋\Debug\work_4_18_1三子棋.exe
